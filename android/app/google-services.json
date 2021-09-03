@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "240404732830",
+    "firebase_url": "https://tanzanite-18f40-default-rtdb.firebaseio.com",
+    "project_id": "tanzanite-18f40",
+    "storage_bucket": "tanzanite-18f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240404732830:android:ca7149259ccd1555e1548f",
+        "android_client_info": {
+          "package_name": "com.tanzanite.tanzanite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240404732830-9t1ejpnjt6dvqjamup9lsg9hfsq0j1tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvC-UvBRywG1g9MGoFHyW8MTi12kf-n7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240404732830-9t1ejpnjt6dvqjamup9lsg9hfsq0j1tp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240404732830-20q1rdndjrm5p4656tkho0312gqaafms.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tanzanite"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
